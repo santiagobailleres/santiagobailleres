@@ -6,10 +6,15 @@ Soy **Data Analyst** en formación para convertirme en **Data Scientist** e **In
 Durante mi trayectoria, he adquirido habilidades en:
 - Procesos ETL y manipulación de datos.
 - Análisis exploratorio y modelado predictivo, como lo he demostrado en proyectos colaborativos en **Igrowker**, destacando:
-   - **CEREM**: Desarrollo de modelos de Machine Learning para predecir la efectividad de campañas publicitarias.
+   - **CEREM**: Desarrollo de modelos de **Machine Learning** para predecir la efectividad de campañas publicitarias.
    - **Reffindr**: Integración de datos de mercado inmobiliario mediante APIs y **web scraping** utilizando **Python** y **PostgreSQL**, generando insights clave para la toma de decisiones mediante el desarrollo de dashboards en **Power BI**.
 - Implementación de soluciones de automatización en **Power Automate** y desarrollo de dashboards en **Power BI** que impulsaron mejoras de productividad durante mi pasantía en **John Deere Argentina**.
 
+## Skills:
+
+
+## Información de contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/santiagobailleres)
 
 <!--
 **santiagobailleres/santiagobailleres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
