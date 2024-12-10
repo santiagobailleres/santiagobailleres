@@ -10,9 +10,6 @@ Durante mi trayectoria, he adquirido habilidades en:
    - **Reffindr**: Integración de datos de mercado inmobiliario mediante APIs y **web scraping** utilizando **Python** y **PostgreSQL**, generando insights clave para la toma de decisiones mediante el desarrollo de dashboards en **Power BI**.
 - Implementación de soluciones de automatización en **Power Automate** y desarrollo de dashboards en **Power BI** que impulsaron mejoras de productividad durante mi pasantía en **John Deere Argentina**.
 
-## Skills:
-
-
 ## Información de contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Bailleres-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/santiagobailleres)
 </br>
