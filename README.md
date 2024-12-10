@@ -16,7 +16,7 @@ Durante mi trayectoria, he adquirido habilidades en:
 ## Información de contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Bailleres-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/santiagobailleres)
 </br>
-[![Email](https://img.shields.io/badge/Email-bailleres.santiago1@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:bailleres.santiago1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-bailleres.santiago1@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:bailleres.santiago1@gmail.com)
 </br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+54_3401_416166-101010?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](http://wa.me/+5493401416166)
 
