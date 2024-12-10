@@ -1,4 +1,4 @@
-## Hola! Mi nombre es Santiago Bailleres 👋
+## Hola a todos! 👋
 ![Santiago Bailleres2](https://github.com/user-attachments/assets/c180355b-b350-491d-948a-5e5d5ffaf9f1)
 
 Soy **Data Analyst** en formación para convertirme en **Data Scientist** e **Ingeniero Industrial**. Con experiencia en análisis de datos, desarrollo de tableros interactivos y modelado predictivo, combino habilidades técnicas, analíticas y de mejora continua para transformar datos en decisiones estratégicas. Mi pasión por los datos comenzó en la universidad y desde entonces he desarrollado competencias avanzadas en Python, SQL, Power BI y metodologías ágiles como Scrum, además de estar certificado en Microsoft Power Platform Fundamentals PL-900.
