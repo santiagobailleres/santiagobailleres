@@ -15,7 +15,7 @@ Durante mi trayectoria, he adquirido habilidades en:
 
 ## Información de contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Bailleres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/santiagobailleres)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Bailleres-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/santiagobailleres)
 <!--
 **santiagobailleres/santiagobailleres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
